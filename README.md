@@ -27,7 +27,7 @@ This is a personal finance dashboard built using **React** and **Firebase**, whe
 
 ## 📡 Live Demo
 
-👉 [Check the live app here]((https://trackx-finance.vercel.app/))
+👉 [Check the live app here] (https://trackx-finance.vercel.app/)
 
 
 
