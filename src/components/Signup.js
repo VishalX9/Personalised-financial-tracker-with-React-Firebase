@@ -120,7 +120,7 @@ const SignUpSignIn = () => {
                 <p>Email</p>
                 <input
                   type="email"
-                  placeholder="JohnDoe@gmail.com"
+                  placeholder="Vishal123@gmail.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                 />
