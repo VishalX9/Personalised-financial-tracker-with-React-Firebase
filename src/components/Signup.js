@@ -174,7 +174,7 @@ const SignUpSignIn = () => {
                 <p>Full Name</p>
                 <input
                   type="text"
-                  placeholder="John Doe"
+                  placeholder="Vishal Jaiswal"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                 />
@@ -183,7 +183,7 @@ const SignUpSignIn = () => {
                 <p>Email</p>
                 <input
                   type="email"
-                  placeholder="JohnDoe@gmail.com"
+                  placeholder="Vishal123@gmail.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                 />
